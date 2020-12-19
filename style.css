@@ -1,0 +1,54 @@
+textarea {
+    width: 50%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+    margin: 2rem auto;
+    cursor: pointer;
+    border-radius: 1rem ;
+    background-color:grey;
+   
+
+}
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    display: block;
+    margin: 2rem auto;
+    border-radius: 1rem;
+    background-color:grey;
+       
+}    
+body{
+    background-image: url(/images/new-minnion.jpg);
+
+    background-size: cover;
+    background-repeat:no-repeat;
+
+    
+}
+h1{
+    text-align: center;
+    color:black;
+    margin: 1rem;
+    
+    
+}
+
+#btn-translate{
+    display: block;
+    background-color: grey;
+    margin:2rem auto;
+    color: black;
+    border: none;
+    padding:1rem;
+    border-radius: 8px;
+}
+::placeholder{
+    color: white;
+    font-size: large;
+}
